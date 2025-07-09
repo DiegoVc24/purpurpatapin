@@ -16,6 +16,5 @@ s
 -
 a
 
--
 -       npm install cors
 
